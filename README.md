@@ -9,13 +9,13 @@
 
 ## 🌐 Live URL
 
-> 🔗 [Deployed Site on Vercel/Netlify/GitHub Pages](https://your-live-site-url.com)
+> 🔗 [Deployed Site on Vercel](https://ii-tbbsr.vercel.app/)
 
 ---
 
 ## 📂 GitHub Repository
 
-> 🔗 [GitHub Repository Link](https://github.com/yourusername/frontend-battle)
+> 🔗 [GitHub Repository Link](https://github.com/architshankar/IITbbsr)
 
 ---
 
